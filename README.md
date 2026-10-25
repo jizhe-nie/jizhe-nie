@@ -24,10 +24,12 @@ I write about my learning and projects on my blog.
 <!-- POSTS:START -->
 **中文**
 
+- [我做了个 AI 一键发布博客的工具 blogpub](https://jizhe-nie.github.io/2026/10/24/blogpub-ai-publish-tool/) · 2026-10-24
 - [从深度学习环境到个人博客上线：我的第一篇记录](https://jizhe-nie.github.io/2026/10/22/from-dl-env-to-blog/) · 2026-10-22
 
 **English**
 
+- [I Built blogpub: A One-Command AI Publishing Tool for My Blog](https://jizhe-nie.github.io/2026/10/24/blogpub-ai-publish-tool-en/) · 2026-10-24
 - [From a Deep Learning Setup to a Live Personal Blog: My First Post](https://jizhe-nie.github.io/2026/10/22/from-dl-env-to-blog-en/) · 2026-10-22
 <!-- POSTS:END -->
 
